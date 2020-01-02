@@ -1,5 +1,5 @@
 ---
 title: "My First Page"
-date: 2020-1-1
+date: 2020-01-01
 ---
 Hello, this is my first page
